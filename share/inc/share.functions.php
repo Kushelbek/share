@@ -3,7 +3,7 @@
  * share functions
  *
  * @author  Roffun
- * @copyright Copyright (C) 2015 - today: WebCot.net | https://webcot.net/cotonti/extensions/share-plugin
+ * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/share-plugin
  * @license BSD
  */
 

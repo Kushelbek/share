@@ -6,9 +6,9 @@ Name=Share
 Category=community-social
 Description=Плагин поделиться в соцсетях, необходим JQuery
 Version=2.0.3
-Date=26-11-2016</sub>
-Author=WebRomen 
-Copyright=Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/share<br>В плагине используется скрипт //goodshare.ru от Interactive agency «Central marketing» http://centralmarketing.ru
+Date=08-12-2016</sub>
+Author=Roffun
+Copyright=Copyright (C) 2015 - today: WebCot.net | https://webcot.net/cotonti/extensions/share-plugin<br>В плагине используется скрипт //goodshare.ru от Interactive agency «Central marketing» http://centralmarketing.ru
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -26,8 +26,8 @@ css=99:radio::1:
 /**
  * share setup
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/share
+ * @author  Roffun
+ * @copyright Copyright (C) 2015 - today: WebCot.net | https://webcot.net/cotonti/extensions/share-plugin
  * @license BSD
  */
 

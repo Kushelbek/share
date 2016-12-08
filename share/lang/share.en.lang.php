@@ -2,8 +2,8 @@
 /**
  * English Language File for share plugin
  * 
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/share
+ * @author  Roffun
+ * @copyright Copyright (C) 2015 - today: WebCot.net | https://webcot.net/cotonti/extensions/share-plugin
  * @license BSD
  */
 

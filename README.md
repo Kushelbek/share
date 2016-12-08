@@ -52,4 +52,4 @@ Share - плагин под Cotonti  для вывода блока кнопок
 
 В качестве авторов скрипта goodshare.js указано Interactive agency "Central marketing" //centralmarketing.ru, скрипт распространяется по лицензии MIT.
 
-Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/share
+Copyright (C) 2015 - today: WebCot.net | https://webcot.net/cotonti/extensions/share-plugin

@@ -8,7 +8,7 @@ Description=Плагин поделиться в соцсетях, необхо�
 Version=2.0.3
 Date=08-12-2016</sub>
 Author=Roffun
-Copyright=Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/share-plugin<br>В плагине используется скрипт //goodshare.ru от Interactive agency «Central marketing» http://centralmarketing.ru
+Copyright=Copyright (c) 2015 - today: Roffun | https://github.com/Roffun<br>В плагине используется скрипт //goodshare.ru от Interactive agency «Central marketing» http://centralmarketing.ru
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -27,7 +27,7 @@ css=99:radio::1:
  * share setup
  *
  * @author  Roffun
- * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/share-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 

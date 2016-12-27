@@ -3,7 +3,7 @@
  * Русский языковый файл плагина share
  * 
  * @author  Roffun
- * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/share-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 defined('COT_CODE') or die('Wrong URL.');

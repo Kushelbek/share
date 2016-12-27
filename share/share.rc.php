@@ -10,7 +10,7 @@ Hooks=rc
  * share rc
  *
  * @author  Roffun
- * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/share-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 

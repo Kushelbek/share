@@ -16,5 +16,6 @@ Hooks=rc
 
 defined('COT_CODE') or die('Wrong URL');
 if ($cfg['jquery'] && $cfg['turnajax'] && $cfg['plugin']['share']['css']) {
-   Resources::addFile($cfg['plugins_dir'] . '/share/css/share.css');
+   Resources::addFile($cfg['plugins_dir'] . '/share/css/share.css','css');
+   Resources::addFile($cfg['plugins_dir'] . '/share/js/goodshare.min.js','js','99');
 }
